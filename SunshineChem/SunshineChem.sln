@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunshineChem", "SunshineChem\SunshineChem.csproj", "{BBEB950C-E609-4724-A2D0-0D5F2AF029DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunshineChem.Tests", "SunshineChem.Tests\SunshineChem.Tests.csproj", "{964BEF70-03E9-4AEC-9387-FA14B5AAB4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEB950C-E609-4724-A2D0-0D5F2AF029DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEB950C-E609-4724-A2D0-0D5F2AF029DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEB950C-E609-4724-A2D0-0D5F2AF029DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEB950C-E609-4724-A2D0-0D5F2AF029DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964BEF70-03E9-4AEC-9387-FA14B5AAB4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964BEF70-03E9-4AEC-9387-FA14B5AAB4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964BEF70-03E9-4AEC-9387-FA14B5AAB4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964BEF70-03E9-4AEC-9387-FA14B5AAB4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
